@@ -12,3 +12,5 @@ GitHub is often used to host open source software development projects and is th
 ## Example Github: Class 2 Student
 
 Here[link here] is a github profile from a previous student that is current on intership. 
+
+## What is Forking? Why is it important?
