@@ -11,6 +11,9 @@ GitHub is often used to host open source software development projects and is th
 - Update: Students are doing personal projects this cycle but will still have to use Github to store or save their projects as they start, build and complete them.
 
 
+//Why do you need to know how to use Github? 
+- we are building a knowledge database ...
+
 ## Things to know:
 
 ### What is Forking? 
